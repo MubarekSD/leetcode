@@ -5,3 +5,19 @@
 #+DESCRIPTION: Leetcode
 #+KEYWORDS: Leetcode
 #+LANGUAGE: en
+
+| Problem                                              | Solution |
+|------------------------------------------------------+----------|
+| [[https://leetcode.com/problems/convert-the-temperature/][Convert the Temperature]]                              | [[https://github.com/mubareksd/leetcode/blob/main/2469-convert-the-temperature/2469-convert-the-temperature.py][Python]]   |
+| [[https://leetcode.com/problems/sorting-the-sentence/][Sorting the Sentence]]                                 | [[https://github.com/mubareksd/leetcode/blob/main/1859-sorting-the-sentence/1859-sorting-the-sentence.py][Python]]   |
+| [[https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/][How Many Numbers Are Smaller Than the Current Number]] | [[https://github.com/mubareksd/leetcode/blob/main/1365-how-many-numbers-are-smaller-than-the-current-number/1365-how-many-numbers-are-smaller-than-the-current-number.py][Python]]   |
+| [[https://leetcode.com/problems/find-target-indices-after-sorting-array/][Find Target Indices After Sorting Array]]              | [[https://github.com/mubareksd/leetcode/blob/main/2089-find-target-indices-after-sorting-array/2089-find-target-indices-after-sorting-array.py][Python]]   |
+| [[https://leetcode.com/problems/recyclable-and-low-fat-products/][Recyclable and Low Fat Products]]                      | [[https://github.com/mubareksd/leetcode/blob/main/1757-recyclable-and-low-fat-products/1757-recyclable-and-low-fat-products.sql][Python]]   |
+| [[https://leetcode.com/problems/concatenation-of-array/][Concatenation of Array]]                               | [[https://github.com/mubareksd/leetcode/blob/main/1929-concatenation-of-array/1929-concatenation-of-array.py][Python]]   |
+| [[https://leetcode.com/problems/two-sum/][Two Sum]]                                              | [[https://github.com/mubareksd/leetcode/blob/main/0001-two-sum/0001-two-sum.py][Python]]   |
+| [[https://leetcode.com/problems/pascals-triangle/][Pascal Triangle]]                                      | [[https://github.com/mubareksd/leetcode/blob/main/0118-pascals-triangle/0118-pascals-triangle.py][Python]]   |
+| [[https://leetcode.com/problems/pascals-triangle-ii/][Pascal Triangle II]]                                   | [[https://github.com/mubareksd/leetcode/blob/main/0119-pascals-triangle-ii/0119-pascals-triangle-ii.py][Python]]   |
+| [[https://leetcode.com/problems/fizz-buzz/][Fizz Buzz]]                                            | [[https://github.com/mubareksd/leetcode/blob/main/0412-fizz-buzz/0412-fizz-buzz.py][Python]]   |
+| [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Find Total Time Spent by Each Employee]]               | [[https://github.com/mubareksd/leetcode/blob/main/1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql][Python]]   |
+| [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]]                                    | [[https://github.com/mubareksd/leetcode/blob/main/1046-last-stone-weight/1046-last-stone-weight.py][Python]]   |
+| [[https://leetcode.com/problems/sort-colors/][Sort Colors]]                                          | [[https://github.com/mubareksd/leetcode/blob/main/0075-sort-colors/0075-sort-colors.py][Python]]   |
