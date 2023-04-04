@@ -21,3 +21,4 @@
 | [[https://leetcode.com/problems/find-total-time-spent-by-each-employee/][Find Total Time Spent by Each Employee]]               | [[https://github.com/mubareksd/leetcode/blob/main/1741-find-total-time-spent-by-each-employee/1741-find-total-time-spent-by-each-employee.sql][Python]]   |
 | [[https://leetcode.com/problems/last-stone-weight/][Last Stone Weight]]                                    | [[https://github.com/mubareksd/leetcode/blob/main/1046-last-stone-weight/1046-last-stone-weight.py][Python]]   |
 | [[https://leetcode.com/problems/sort-colors/][Sort Colors]]                                          | [[https://github.com/mubareksd/leetcode/blob/main/0075-sort-colors/0075-sort-colors.py][Python]]   |
+| [[https://leetcode.com/problems/largest-number/][Largest Number]]                                       | [[https://github.com/mubareksd/leetcode/blob/main/0179-largest-number/0179-largest-number.py][Python]]   |
