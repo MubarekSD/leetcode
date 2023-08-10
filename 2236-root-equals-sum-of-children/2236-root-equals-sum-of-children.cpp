@@ -12,7 +12,6 @@
 class Solution {
 public:
     bool checkTree(TreeNode* root) {
-        cout << root -> left -> val;
         return root -> left -> val + root -> right -> val == root -> val ? true : false;
     }
 };
