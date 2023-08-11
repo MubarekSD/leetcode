@@ -1,11 +1,10 @@
 class Solution:
     def maximumWealth(self, accounts: List[List[int]]) -> int:
-        max = 0
-        for i in range(len(accounts)):
+        maxMo = 0
+        for customer in accounts:
             sum = 0
-            for j in range(len(accounts[i])):
-                sum += accounts[i][j]
-            if sum > max:
-                max = sum
-        return max
+            for m in customer:
+                sum += m
+            maxMo = max(maxMo, sum)
+        return maxMo
         
